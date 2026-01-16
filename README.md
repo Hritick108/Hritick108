@@ -65,7 +65,8 @@ I value clarity over complexity and consistency over shortcuts.
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: *(add your LinkedIn link here)*  
+- 💼 LinkedIn: [Hritick Chawla](https://www.linkedin.com/in/hritick-chawla-24a81839a)
+  
 - 💻 GitHub: You’re already here 🙂
 
 ---
